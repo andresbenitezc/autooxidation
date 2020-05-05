@@ -1,0 +1,10 @@
+Package: deconspectra
+Type: Package
+Title: This package returns time course predictions using spectral deconvolution based on reference spectrums.
+Version: 1.0
+Date: 2015-05-21
+Author: Andres Benitez, Rice University
+Maintainer: Andres Benitez <asb4@rice.edu>
+Description: This package contains a function that returns the proportions of reference spectrums present in an experimental spectrum for an array of spectrums. The general use is to deconvolute complex spectrums into time courses by using reference spectrums.
+Depends: minpack.lm
+License: GPL-2
