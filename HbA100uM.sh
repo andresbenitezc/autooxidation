@@ -1,3 +1,12 @@
+####
+# Bash script to automate autooxidation Python scripts
+# $File should be the file name with the spectrophotometer data
+# $REFF is the folder containing the reference spectrums
+# The number at the end references the column in the file for each replicate.
+# Author: Andres Benitez
+####
+
+
 #!/bin/sh
 
 DIRECTORY="HbA 100uM"
