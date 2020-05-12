@@ -1,3 +1,6 @@
+####
+# Author: Andres Benitez
+####
 #R CMD INSTALL /Library/Frameworks/R.framework/Versions/3.2/Resources/library deconspectra
 # detach("package:deconspectra", unload = TRUE)
 
