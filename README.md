@@ -4,7 +4,7 @@ R and Python scripts for processing spectrophotometer data for hemoglobin autoox
 
 There are 4 scripts included in the file for processing the data as well as an associated R package. 
 
-* HbA100uM.sh is a bash script that helps automate multiple calls to the R and Python scripts.
+* HbA100uM.sh is a bash script that helps automate multiple calls to the R and Python scripts. HbA refers tu adult human hemoglobin.
 
 * autoox-all-ggplot.R is an R script for plotting the output data using ggplot once the concentration of the different hemoglobin species have been determined.
 
