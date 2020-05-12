@@ -1,3 +1,6 @@
+####
+# Author: Andres Benitez
+####
 \name{deconSpectra}
 \alias{deconSpectra}
 \alias{coef.nlsArray}
