@@ -1,4 +1,9 @@
 ####
+# Main function for deconspectra to deconvolute spectrums using reference spectrums.
+# Input is a time series, a spectrum to be analyzed, and a number of reference spectrums.
+# The lengths of the vectors must match or there will be an error.
+# Baseline adds a baseline fit to the function.
+# Lambda allows for scaling of the reference spectrums to fit the analyzed spectrums.
 # Author: Andres Benitez
 ####
 #R CMD INSTALL /Library/Frameworks/R.framework/Versions/3.2/Resources/library deconspectra
