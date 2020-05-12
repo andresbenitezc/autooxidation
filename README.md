@@ -15,5 +15,6 @@ There are 4 scripts included in the file for processing the data as well as an a
 * deconspectra is an R package that takes a mixed spectrum and any number of reference spectrums, and returns the ratios of each reference spectrum present in the mixed spectrum. 
 
 
-R Dependecies: scatterplot3d, minpack.lm, deconspectra (included in this repository), and signal.
-Python Dependecies: sys, re, numpy, and subprocess.
+R dependecies: scatterplot3d, minpack.lm, deconspectra (included in this repository), and signal.
+
+Python dependecies: sys, re, numpy, and subprocess.
