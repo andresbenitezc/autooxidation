@@ -4,6 +4,7 @@
 # $REFF is the folder containing the reference spectrums
 # The number at the end references the column in the file for each replicate.
 # Author: Andres Benitez
+# Cite: Benitez Cardenas AS, Samuel PP, Olson JS. Current Challenges in the Development of Acellular Hemoglobin Oxygen Carriers by Protein Engineering. Shock. 2019;52(1S Suppl 1):28‐40. doi:10.1097/SHK.0000000000001053
 ####
 
 
