@@ -1,3 +1,10 @@
+####
+# R script for calculating ratios of species from spectrums.
+# This R script requires a csv file with the spectrums that have to be read and the reference curves for each species.
+# The script also takes an imput for a file name to output the data table and plot to.
+# Author: Andres Benitez
+####
+
 library(scatterplot3d)
 library(minpack.lm)
 library(deconspectra)
