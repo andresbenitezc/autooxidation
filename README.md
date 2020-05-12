@@ -1,6 +1,6 @@
 # autooxidation
 
-R and Python scripts for processing spectrophotometer data for hemoglobin autooxidation experiments using spectral deconvolution to determine the relative concentrations of the different hemoglobin species in the sample over time.
+Data processing of spectrophotometer data for hemoglobin autooxidation experiments using spectral deconvolution to determine the relative concentrations of the different hemoglobin species in the sample over time.
 
 There are 4 scripts included in the file for processing the data as well as an associated R package. 
 
