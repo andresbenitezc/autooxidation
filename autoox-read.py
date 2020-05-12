@@ -1,3 +1,10 @@
+####
+# Python script to clean data and run R script for spectral deconvolution.
+# The script requires three inputs; a file containing the spectrum to be analyzed, a file containing the reference spectrums,
+# and a the number indicating which spectrum to analyze (the code was written to analyze data from triplicate experiments)
+# Author: Andres Benitez
+####
+
 #!/Library/Frameworks/Python.framework/Versions/3.5/bin/python3
 
 import sys
