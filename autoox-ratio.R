@@ -3,6 +3,7 @@
 # This R script requires a csv file with the spectrums that have to be read and the reference curves for each species.
 # The script also takes an imput for a file name to output the data table and plot to.
 # Author: Andres Benitez
+# Bissé E, Schaeffer-Reiss C, Van Dorsselaer A, et al. Hemoglobin Kirklareli (α H58L), a New Variant Associated with Iron Deficiency and Increased CO Binding. J Biol Chem. 2017;292(6):2542‐2555. doi:10.1074/jbc.M116.764274
 ####
 
 library(scatterplot3d)
