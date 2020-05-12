@@ -3,7 +3,7 @@
 # This R script requires a csv file with the spectrums that have to be read and the reference curves for each species.
 # The script also takes an imput for a file name to output the data table and plot to.
 # Author: Andres Benitez
-# Cite: Benitez Cardenas AS, Samuel PP, Olson JS. Current Challenges in the Development of Acellular Hemoglobin Oxygen Carriers by Protein Engineering. Shock. 2019;52(1S Suppl 1):28‐40. doi:10.1097/SHK.0000000000001053####
+# Cite: Benitez Cardenas AS, Samuel PP, Olson JS. Current Challenges in the Development of Acellular Hemoglobin Oxygen Carriers by Protein Engineering. Shock. 2019;52(1S Suppl 1):28‐40. doi:10.1097/SHK.0000000000001053
 ####
 
 library(scatterplot3d)
