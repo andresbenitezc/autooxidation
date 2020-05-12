@@ -3,6 +3,7 @@
 # The script requires three inputs; a file containing the spectrum to be analyzed, a file containing the reference spectrums,
 # and a the number indicating which spectrum to analyze (the code was written to analyze data from triplicate experiments)
 # Author: Andres Benitez
+# Bissé E, Schaeffer-Reiss C, Van Dorsselaer A, et al. Hemoglobin Kirklareli (α H58L), a New Variant Associated with Iron Deficiency and Increased CO Binding. J Biol Chem. 2017;292(6):2542‐2555. doi:10.1074/jbc.M116.764274
 ####
 
 #!/Library/Frameworks/Python.framework/Versions/3.5/bin/python3
