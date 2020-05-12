@@ -1,3 +1,7 @@
+####
+# Creates a "plot" function to plot output from deconspectra.
+# Author: Andres Benitez
+####
 plot.nlsArray <- function(x, col=NULL, normalized = FALSE, ...) {
 	if (is.null(col)){col = rainbow(length(names(x$values)))}
 
