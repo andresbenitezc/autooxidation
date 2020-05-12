@@ -8,7 +8,7 @@ There are 4 scripts included in the file for processing the data as well as an a
 
 * autoox-all-ggplot.R is an R script for plotting the output data using ggplot once the concentration of the different hemoglobin species have been determined.
 
-* autoox-ratio.R is an R script for determing the hemoglobin species ratios over time after the data has been processed using the Python script autoox-read.py. The script uses the R package deconspectra to do the actual spectral decomposition.
+* autoox-ratio.R is an R script for determining the hemoglobin species ratios over time after the data has been processed using the Python script autoox-read.py. The script uses the R package deconspectra to do the actual spectral decomposition.
 
 * autoox-read.py reads the data from a .csv file, cleans up the data, and calls the R script autoox-ratio.R. The output of the R file is then written to an excel file and plotted.
 
